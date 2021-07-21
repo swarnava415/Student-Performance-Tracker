@@ -1,0 +1,8 @@
+insert attendance & marks by admin
+show attendance & marks by student
+er diagram
+sequence diagram
+class diagram
+Unit Test Plan 1/2
+Functional Requirement 1/2
+
